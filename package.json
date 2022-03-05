@@ -1,0 +1,23 @@
+{
+  "name": "humstate",
+  "version": "1.0.1",
+  "description": "This is Hook for react",
+  "main": "Humstate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umerprogramm/Humstate.git"
+  },
+  "author": "umerprogrammer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umerprogramm/Humstate/issues"
+  },
+  "homepage": "https://github.com/umerprogramm/Humstate#readme",
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
