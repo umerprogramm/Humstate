@@ -1,7 +1,7 @@
 Humstate
 ========
 
-Humstate is the javascript package that allow us to build your react app Quickly by using the humstate Method
+Humstate is the javascript package that allow us to build your react project Quickly by using the humstate Methods
 
 ### These are the some method that we will introduce
 
