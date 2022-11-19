@@ -12,6 +12,5 @@ Humstate is the javascript package that allow us to build your react project Qui
 How to Start building it?
 -------------------------
 
-*   create a react app by using `npx create react-app humstate` or `npm init vite`
-*   `npm i humstate`
+* Just clone the project
 *   And start working on it
